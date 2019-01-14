@@ -14,7 +14,7 @@ INSERT INTO `Admin` (`adUsername`, `adPwd`, `adFName`, `adLName`, `adEmail`) VAL
 INSERT INTO `student` (`studID`, `studPwd`, `studPic`, `studFName`, `studLName`, `studEmail`, `studMobile`, `studProgramme`, `studDOB`, `studAddress`) VALUES
 ('s11109083', 'e397b9ff199c1af7168083bbd0a93b75', 'nav.jpg', 'Navneel', 'Kumar', 's11109083@student.usp.ac.fj', 9631876, 'Bachelor of Software Engineering', '29/07/1994', 'Lot 141/4,Nailuva Rd, Suva'),
 ('s11131927', '9573534ee6a886f4831ac5bcdfe85565', 'alvin.jpg', 'Alvin', 'Prasad', 's11131927@student.usp.ac.fj', 8430175, 'Bachelor of Software Engineering', '07/05/97', 'Fletcher Road, Vatuwaqa'),
-('s11134676', '47bc17dc1a2f164967f55325d866c75c', 'oli.jpg', 'Olivia', 'Bula', 's11134676@student.usp.ac.fj', 7105126, 'Bachelor of Software Engineering', '15/08/98', 'Vatuwaqa'),
+('s11134676', '47bc17dc1a2f164967f55325d866c75c', 'oli.jpg', 'Audrey', 'Bula', 's11134676@student.usp.ac.fj', 7105126, 'Bachelor of Software Engineering', '15/08/98', 'Vatuwaqa'),
 ('s11146207', '8e6e509fba12de7be9ff1cb5333a69d2', 'edwin.jpg', 'Edwin', 'Raj', 's11146207@student.usp.ac.fj', 9324744, 'Bachelor of Software Engineering', '02/10/97', 'Porva Place, Makoi'),
 ('s11147441', '49bbb91dd5d5494be3c98107699614c3', 'sav.jpg', 'Savneel', 'Prasad', 's111447441@student.usp.ac.f', 9183336, 'Bachelor of Software Engineering', '08/07/97', 'Vishnu Deo Rd, Nakasi'),
 ('s11147691', '0f55f6c6906df432f06bbe292151bf2b', 'eliesa.jpg', 'Eliesa', 'Raiwalui', 's11147691@student.usp.ac.fj', 9631876, 'Bachelor of Software Engineering', '20/01/98', 'Samabula');
